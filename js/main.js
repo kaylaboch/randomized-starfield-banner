@@ -1,7 +1,7 @@
 var $banner = $('.banner');
 var $width= $banner.outerWidth();
 var $addStars;
-var $heigh = $banner.outerHeight();
+var $height = $banner.outerHeight();
 
 var $body = $('.banner');
 var width = $body.outerWidth();
